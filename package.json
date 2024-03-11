@@ -12,5 +12,5 @@
     "dev": "next dev"
   },
   "author": "",
-  "license": "ISC"
+  "license": "MIT"
 }
